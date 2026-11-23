@@ -2,7 +2,7 @@
 
 <h1>📘 Portafolio de Evidencias</h1>
 
-<h3>Nombre Apellido1 Apellido2</h3>
+<h3>Guillermo Godinez Chacon</h3>
 
 <strong>CSTI12004 · Programación web en el entorno cliente</strong> · Instituto Nacional de Aprendizaje
 Programa CSTI14001 Desarrollo de páginas web · Facilitador: Giovanni Antonio Coto Calderón · 2026-2027
