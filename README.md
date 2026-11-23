@@ -80,14 +80,14 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S02</td>
             <td>Entorno de trabajo, MVC y JavaScript</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">Comprendi que es el patron de arquitectura Modelo, Vista y Controlador (MVC)</td>
             <td align="center"><a href="UA1/S02/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S02/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
         <tr>
             <td align="center">S03</td>
             <td>Entorno en el laboratorio y mi primer script</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">Instalacion del entorno de programacion, y la etiqueta script</td>
             <td align="center"><a href="UA1/S03/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S03/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
