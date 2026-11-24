@@ -101,7 +101,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S05</td>
             <td>Números, textos, fechas y conversión de datos</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">Adquiri conocimientos para redondear numeros, manejar fechas y monedas segun el pais</td>
             <td align="center"><a href="UA1/S05/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S05/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
