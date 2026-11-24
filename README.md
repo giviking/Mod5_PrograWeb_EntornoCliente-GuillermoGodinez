@@ -108,7 +108,7 @@ Mod5_PrograWeb_EntornoCliente-Nombre/
         <tr>
             <td align="center">S06</td>
             <td>Decisiones y depuración en el navegador</td>
-            <td align="left">(Completar al terminar la sesión)</td>
+            <td align="left">Comprendi como ejecutar codigo especifico dependiendo de las condiciones. Y como usar dev tools para depurar el codigo.</td>
             <td align="center"><a href="UA1/S06/" target="_blank" rel="noopener">Ver</a></td>
             <td align="center"><a href="UA1/S06/capturas/" target="_blank" rel="noopener">Ver</a></td>
         </tr>
